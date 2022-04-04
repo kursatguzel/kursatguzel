@@ -10,7 +10,11 @@ I completed my Bachelor's Degree at Karadeniz Technical University with a focus 
  I love creating tangible value for people by finding signals in data that solve critical problems they really care about. 
  My research interest lies in the application of Deep Learning in different domains mainly Computer Vision and Natural Language Processing.
 
-Skills: PYTHON / JAVA / R / JS / HTML / CSS
+## Skills and Experience 
+* 🐍PYTHON
+* ☕ JAVA
+* 📊 R 
+* 🖥️ JS / HTML / CSS
 
 ## Examples of work
 
