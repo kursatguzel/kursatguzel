@@ -1,4 +1,4 @@
-### Hi there 👋, my name is Kürşat
+### Hi there 👋, I'm Kürşat
 #### Data Scientist | Data Analytics
 ![Data Scientist | Data Analytics](https://media-exp1.licdn.com/dms/image/C4D16AQHA9r4EQ-FHoA/profile-displaybackgroundimage-shrink_350_1400/0/1648730633713?e=1654732800&v=beta&t=grs3Wrp4MWlhLvBBAklH5tDT22VaCuZwq85ewqOTdfo)
 
