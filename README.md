@@ -1,24 +1,26 @@
-### Hi there 👋, I'm Kürşat
-#### Data Scientist | Data Analytics
-![Data Scientist | Data Analytics](https://media-exp1.licdn.com/dms/image/C4D16AQHA9r4EQ-FHoA/profile-displaybackgroundimage-shrink_350_1400/0/1648730633713?e=1654732800&v=beta&t=grs3Wrp4MWlhLvBBAklH5tDT22VaCuZwq85ewqOTdfo)
+<h1 align="center">Hi 👋, I'm Kürşat Güzel</h1>
+<h3 align="center">Data Scientist | Data Analytics</h3>
 
-I completed my Bachelor's Degree at Karadeniz Technical University with a focus on Data Scientist in the field of Statistics and computer science.
- An experienced analytics consultant with a strong foundation in advanced Data Science and Machine Learning techniques and sound knowledge of fundamental business processes.
- As an Information Management professional, I am passionate and experienced in applying statistical data mining techniques for solving business problems and delivering an impact. 
- Avid problem solver. My interests and experiences include sustainability, the built environment, data visualization, startups, machine learning, deep learning and natural language processing. 
- Curious and persistent data scientist with rigorous training and experience using data to decode hard and nuanced problems. 
- I love creating tangible value for people by finding signals in data that solve critical problems they really care about. 
- My research interest lies in the application of Deep Learning in different domains mainly Computer Vision and Natural Language Processing.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=kursatguzel&label=Profile%20views&color=0e75b6&style=flat" alt="kursatguzel" /> </p>
 
-## Skills and Experience 
-* 🐍PYTHON
-* ☕ JAVA
-* 📊 R 
-* 🖥️ JS / HTML / CSS
+- 📫 How to reach me **mail@kursatguzel.com**
 
-## Examples of work
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://codepen.io/kursatguzel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="kursatguzel" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/kursatguzel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kursatguzel" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/17211467" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="17211467" height="30" width="40" /></a>
+<a href="https://kaggle.com/kursatguzel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="kursatguzel" height="30" width="40" /></a>
+<a href="https://medium.com/@kursatguzel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@kursatguzel" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/kursattguzel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="kursattguzel" height="30" width="40" /></a>
+</p>
 
-<img src='https://github.com/kursatguzel/kursatguzel/blob/main/1634842508919.gif' width="500" />
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/kursatguzel)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/kursatguzel/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/17211467)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://www.kursatguzel.com/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg' alt='kaggle' height='40'>](kursatguzel)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg' alt='hackerrank' height='40'>](kursattguzel)  
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kursatguzel&show_icons=true&locale=en&layout=compact" alt="kursatguzel" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kursatguzel&show_icons=true&locale=en" alt="kursatguzel" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kursatguzel&" alt="kursatguzel" /></p>
 
